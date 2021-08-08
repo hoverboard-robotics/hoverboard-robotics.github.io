@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Hoverboard Robotics
 
-You can use the [editor on GitHub](https://github.com/hoverboard-robotics/hoverboard-robotics.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website is dedicated to the robotic projects built on the customized hoverboard platform. Robotics enthusiasts across the world are using hoverboard controller and motors as an inexpensive and powerful mobile base for all sorts of projects: delivery robots, service robots, computer vision test benches etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is maintained by a team of roboticists, originally connected in the [Slack community](https://join.slack.com/t/robaka/shared_invite/zt-q52yfvnl-IP0h~JDOmgh3VmJ7Hh69Jw) dedicated to the Hoverboard support in ROS.
 
-### Markdown
+## Why Hoverboard?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
 
-```markdown
-Syntax highlighted code block
+| Project | Author       | Images | Description |
+| -       | -            | -      | -           |
+| [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/alex-makarov) | image  | Description |
 
-# Header 1
-## Header 2
-### Header 3
+## Hoverboard hardware
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hoverboard-robotics/hoverboard-robotics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Hoverboard software
+### Firmware
+### ROS driver
