@@ -1,5 +1,4 @@
 ## Welcome to Hoverboard Robotics
-[[__TOC__]]
 
 This website is dedicated to the robotic projects built on the customized hoverboard platform. Robotics enthusiasts across the world are using hoverboard controller and motors as an inexpensive and powerful mobile base for all sorts of projects: delivery robots, service robots, computer vision test benches etc.
 
