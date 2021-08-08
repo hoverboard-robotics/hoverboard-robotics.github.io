@@ -14,7 +14,7 @@ This website is maintained by a team of roboticists, originally connected in the
   *  [Original firmware by Niklas Fauth](https://github.com/NiklasFauth/hoverboard-firmware-hack)
   *  [Bipropellant firmware](https://github.com/bipropellant/bipropellant-hoverboard-firmware)
   *  [Emanuel Feru firmware](https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC)
-* [ROS1 driver](https://github.com/alex-makarov/hoverboard-driver)
+* [ROS1 driver](https://github.com/alex-makarov/hoverboard-driver) ![main workflow](https://github.com/alex-makarov/hoverboard-driver/actions/workflows/main.yml/badge.svg)
 
 ## [Gallery](gallery.md)
 
