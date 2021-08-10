@@ -22,7 +22,8 @@ This website is maintained by a team of roboticists, originally connected in the
 
 | Project                                              | Author                                          | Images                                  | Description                            |
 |------------------------------------------------------|-------------------------------------------------|-----------------------------------------|----------------------------------------|
-| [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/alex-makarov) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
+| [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/lbrombach) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
+| José | [Lloyd Brombach](https://github.com/alex-makarov) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
 
 ## To Do
 * Publish at least one open source robot design, along with BoM and build instructions
