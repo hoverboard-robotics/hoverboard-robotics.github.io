@@ -25,5 +25,6 @@ This website is maintained by a team of roboticists, originally connected in the
 | [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/lbrombach) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
 | José | [Lloyd Brombach](https://github.com/alex-makarov) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
 | HoverMower | [Patrick Weber](https://hovermower.github.io/) | <img src="img/hovermower.png" width="200"/> | Robot lawn mower |
+
 ## To Do
 * Publish at least one open source robot design, along with BoM and build instructions
