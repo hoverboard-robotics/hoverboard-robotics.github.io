@@ -22,9 +22,9 @@ This website is maintained by a team of roboticists, originally connected in the
 
 | Project                                              | Author                                          | Images                                  | Description                            |
 |------------------------------------------------------|-------------------------------------------------|-----------------------------------------|----------------------------------------|
-| [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/lbrombach) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
-| José | [Lloyd Brombach](https://github.com/alex-makarov) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
-| HoverMower | [Patrick Weber](https://hovermower.github.io/) | <img src="img/hovermower.png" width="200"/> | Robot lawn mower |
+| [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/alex-makarov) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
+| José | [Lloyd Brombach](https://github.com/lbrombach) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
+| [HoverMower](https://hovermower.github.io/) | [Patrick Weber](https://github.com/paddycube) | <img src="img/hovermower.png" width="200"/> | Robot lawn mower |
 | [OpenDR](https://www.opendr.xyz/) | [OpenDR team](opendrxyz@gmail.com) | <img src="https://lh3.googleusercontent.com/vZlFxLjxyh3c5NIpfo-WMybvmEa7q9mgkkn8G-sVdw1UK1VQEq_ZfA7LHQZgxqo757ANA0xgaUIbaHJtg4gsUDAHL71snAHupW7IOieGnuaEciP0Si7b38ddYZLHBrd36A=w1280" width="200"/> | Open Delivery Robot | 
 
 ## To Do
