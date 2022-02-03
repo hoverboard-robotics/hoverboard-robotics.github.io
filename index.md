@@ -26,6 +26,7 @@ This website is maintained by a team of roboticists, originally connected in the
 | José | [Lloyd Brombach](https://github.com/lbrombach) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
 | [HoverMower](https://hovermower.github.io/) | [Patrick Weber](https://github.com/paddycube) | <img src="img/hovermower.png" width="200"/> | Robot lawn mower |
 | [OpenDR](https://www.opendr.xyz/) | [OpenDR team](opendrxyz@gmail.com) | <img src="https://lh3.googleusercontent.com/vZlFxLjxyh3c5NIpfo-WMybvmEa7q9mgkkn8G-sVdw1UK1VQEq_ZfA7LHQZgxqo757ANA0xgaUIbaHJtg4gsUDAHL71snAHupW7IOieGnuaEciP0Si7b38ddYZLHBrd36A=w1280" width="200"/> | Open Delivery Robot | 
+| [HTB](https://htb-hovertablebot.github.io/) | [Martin Nievas](https://github.com/MartinNievas) | <img src="https://user-images.githubusercontent.com/24465803/152160449-6cb971d6-3c35-4738-8752-fad6d8806ee4.png" width="200"/>| Research robotics platform |
 
 ## To Do
 * Publish at least one open source robot design, along with BoM and build instructions
