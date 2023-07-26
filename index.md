@@ -25,7 +25,7 @@ This website is maintained by a team of roboticists, originally connected in the
 | [Robaka](https://github.com/alex-makarov/robaka-ros) | [Alex Makarov](https://github.com/alex-makarov) | <img src="img/robaka.jpg" width="200"/> | Prototype of a sidewalk delivery robot |
 | José | [Lloyd Brombach](https://github.com/lbrombach) | <img src="img/jose_front.jpeg" width="200"/> | Multi-purpose robotics platform |
 | [HoverMower](https://hovermower.github.io/) | [Patrick Weber](https://github.com/hovermower) | <img src="img/HoverMower.jpg" width="200"/> | Robot lawn mower |
-| [OpenDR](https://www.opendr.xyz/) | [OpenDR team](opendrxyz@gmail.com) | <img src="https://lh6.googleusercontent.com/2huJVap5dNK1P-wqNipR7ncZfST9SxESrPRSh2KZNY5DuwnmfntuuGnK32V2K5hFVBvaossQ4k4FmXItAF_XtkL0M9jI4M1wv6WFXrsxohh4I-rAF3O84Xrn3-ZU6gMT=w1280" width="200"/> | Open Delivery Robot | 
+| [OpenDR](https://www.opendr.xyz/) | [OpenDR team](opendrxyz@gmail.com) | <img src="img/opendr.jpg" width="200"/> | Open Delivery Robot | 
 | [HTB](https://htb-hovertablebot.github.io/) | [Martin Nievas](https://github.com/MartinNievas) | <img src="https://user-images.githubusercontent.com/24465803/152160449-6cb971d6-3c35-4738-8752-fad6d8806ee4.png" width="200"/>| Research robotics platform |
 
 ## To Do
